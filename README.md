@@ -6,7 +6,10 @@ CRUD app using NodeJS, Express and MongoDB.
 npm install
 ```
 
-Then Create config.env file and create PORT and MONGO_URI Variable and specify Value.
+### Then Create config.env file 
+### PORT=3000
+### MONGO_URI = 'your mongodb url'
+
 That's it. You are ready to go. To execute this project just type
 ```
 npm start
